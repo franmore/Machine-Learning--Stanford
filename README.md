@@ -17,7 +17,7 @@ Topics included in the course :
 - Programming projects
 
 ## Certificate
-![Machine Learning Coursera Picture](Machine Learning Certificate - François MORENNE.pdf)
+`My certificate` : <https://www.coursera.org/account/accomplishments/certificate/WW9EVBF2YG4A>
 
 ## References
 `Machine Learning - Stanford` : <https://www.coursera.org/learn/machine-learning>
